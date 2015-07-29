@@ -1,5 +1,5 @@
 # Bridge-Swift-2015
-XCODE 6.1.1
+SPRITE BUILDER Version: 1.4.9 & XCODE 6.1.1
 
 Play as a character who's purpose is to reach the land and try not to fall into the water!
 
